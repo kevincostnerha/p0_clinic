@@ -1,1 +1,1 @@
-# project0_clinic
+Making sure we are connected to the repository
